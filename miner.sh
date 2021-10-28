@@ -1,5 +1,5 @@
-wget https://www.kortho.org/file/linux/miner_linux_002.zip
-unzip miner_linux_002.zip
+wget https://www.kortho.org/file/linux/miner_linux_003.zip
+unzip miner_linux_003.zip
 cd miner_linux
 chmod +x miner
 cd config
